@@ -35,7 +35,7 @@ public class Main {
         System.out.println(itemUnico);
 
 
-        //TreeSet Não permite duplicatas, não possui índice, printa de maneira ordenada/ordem
+        //TreeSet Não permite duplicatas, não possui índice, printa de maneira ordenada
         Set<String> conquistas = new TreeSet<>();
 
         conquistas.add("Nadou pela primeira vez");
